@@ -12,5 +12,5 @@ inanmıyorsan yukardaki linke tıkla
 
 bu linke tıklayarrak indire bilirsin  https://github.com/sdwird/vape/releases/download/vape/vape.v4.10.rar
 
-...
+Minecraft 1.8.9 DA ÇALIŞLIYOR SADECE
 
