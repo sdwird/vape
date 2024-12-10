@@ -10,7 +10,7 @@ https://www.virustotal.com/gui/file/6739e2dcc25b882d8dcf008502c2fc49b1c6be50c479
 inanmıyorsan yukardaki linke tıkla
 
 
-https://github.com/sdwird/vape/releases/download/vape/vape.v4.10.rar
-linke tikla indir
+bu linke tıklayarrak indire bilirsinhttps://github.com/sdwird/vape/releases/download/vape/vape.v4.10.rar
+
 ...
 
